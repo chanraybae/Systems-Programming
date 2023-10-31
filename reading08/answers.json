@@ -1,0 +1,12 @@
+{
+  "q01": "len(sys.argv[1:])",
+  "q02": "','.join(sys.argv[1:])",
+  "q03": "sys.argv[1:11]",
+  "q04": "sys.argv[-1].upper()",
+  "q05": "max(sys.argv[1:])",
+  "q06": "len(set(data))",
+  "q07": "len(text.split())",
+  "q08": "os.popen('ps aux').readline()",
+  "q09": "requests.get(URL).text.splitlines()",
+  "q10": "requests.get(URL).json()"
+}
